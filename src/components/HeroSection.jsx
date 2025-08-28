@@ -24,6 +24,7 @@ const HeroSection = () => {
           </button>
         </div>
       </div>
+      
     </div>
   );
 };
